@@ -13,7 +13,7 @@ import java.util.List;
  * Date: 2017/4/13 14:20
  * Description:  dao持久化层的实现
  */
-public class BiliUserDao {
+public class BiliUserAdo {
 
     public int saveUser(BiliUser biliUser){
 
