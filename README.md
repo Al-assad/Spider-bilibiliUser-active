@@ -11,7 +11,7 @@
 Post方式获取数据，参数 mid （用户B站ID）；  
 * 数据跳转：http://space.bilibili.com/xxxxx/#!/fans/fans  （xxxxx为mid）  
             http://space.bilibili.com/xxxxx/#!/fans/follow  （xxxxx为mid）
-* 详细爬取思路说明：<a href="">Al-assad 's CSDN blog</a>  
+* 详细爬取思路说明：<a href="http://blog.csdn.net/al_assad/article/details/70217621">Al-assad 's CSDN blog</a>  
 * 关联项目：<a href="https://github.com/Al-assad/Spider-bilibiliuser-full">基于Webmagic的B站用户数据爬虫（广度遍历）</a>
 
 ### 爬取数据项 ###  
